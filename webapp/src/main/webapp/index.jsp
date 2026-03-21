@@ -44,6 +44,9 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
+  </div>
+    <p>Already have an account? <a href="#">Sign in</a>.</p>
+  </div>
 
 
 
